@@ -1,0 +1,79 @@
+body{
+color: white;
+font-family:Georgia;
+font-size: 120%;
+}
+body{
+	background-image: url("file:///C:/Users/SMASH%20Scholar/Pictures/40402ef82292cb71a3be899a9611ea7a.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#paragraph1 {
+  letter-spacing: 3px;
+  border-style: outset;
+}
+#v1deo {
+  border-style:solid;
+  border-color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #800020;
+}
+video {float: right;}
+div {text-align: center;}
+
+.fork {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.abcd {
+  border-style: solid;
+/*  height: 245px;*/
+    width: 50%;
+    float: left;
+}
+.abcde {
+  border-style: solid;
+  height: 200px;
+    width: 50%;
+    float: right;
+  clear: right;
+
+}
+.graph {float: right;
+    clear:left;
+}
+
+.dcba {
+    border-style: solid;
+    height: 200px;
+      width: 50%;
+      float: right;
+}
