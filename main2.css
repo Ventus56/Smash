@@ -5,8 +5,8 @@ font-size: 120%;
 }
 body{
 	background-image: "40402ef82292cb71a3be899a9611ea7a.jpg";
-  background-size: cover;
-  background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
 }
 #paragraph1 {
   letter-spacing: 3px;
