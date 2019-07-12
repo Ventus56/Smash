@@ -2,9 +2,7 @@ body{
 color: white;
 font-family:Georgia;
 font-size: 120%;
-}
-body{
-	background-image: "40402ef82292cb71a3be899a9611ea7a.jpg";
+	background-image: url("40402ef82292cb71a3be899a9611ea7a.jpg");
  	background-size: cover;
  	background-repeat: no-repeat;
 }
